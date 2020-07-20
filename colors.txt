@@ -8,5 +8,3 @@ orange
 purple
 white
 yellow
-
-
