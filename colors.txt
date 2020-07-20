@@ -1,2 +1,7 @@
 red
 black
+green
+blue
+pink
+orange
+
