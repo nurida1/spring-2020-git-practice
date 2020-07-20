@@ -4,4 +4,9 @@ green
 blue
 pink
 orange
+###brown
+purple
+white
+yellow
+
 
